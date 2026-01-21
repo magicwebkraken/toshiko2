@@ -163,7 +163,7 @@
                             }),
                           }),
                           (0, r.jsx)("a", {
-                            href: "https://t.me/ToshikoBase",
+                            href: "https://t.me/basetoshiko",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "hero__social-item",
@@ -176,7 +176,7 @@
                             }),
                           }),
                           (0, r.jsx)("a", {
-                            href: "https://dexscreener.com/base/0x00000000000000000000000000000000000000",
+                            href: "https://dexscreener.com/base/0xf8e8bb9009c5ea3f0c6f8cfa8782a9e8b9633184",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "hero__social-item",
@@ -189,7 +189,7 @@
                             }),
                           }),
                           (0, r.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/base/pair-explorer/0x00000000000000000000000000000000000000",
+                            href: "https://www.dextools.io/app/en/base/pair-explorer/0xf8e8bb9009c5ea3f0c6f8cfa8782a9e8b9633184",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "hero__social-item",
@@ -232,7 +232,7 @@
           children: (0, r.jsx)("div", {
             className: "header__container",
             children: (0, r.jsx)("a", {
-              href: "https://t.me/ToshikoBase",
+              href: "https://t.me/basetoshiko",
               target: "_blank",
               rel: "noopener noreferrer",
               className: "header__button",
@@ -414,7 +414,7 @@
       }
       function d() {
         let [e, s] = (0, t.useState)(!1),
-          a = "0x00000000000000000000000000000000000000",
+          a = "0xf8e8bb9009c5ea3f0c6f8cfa8782a9e8b9633184",
           i = async () => {
             try {
               await navigator.clipboard.writeText(a),
@@ -488,7 +488,7 @@
                           }),
                           (0, r.jsx)("span", {
                             className: "tokenomics__card-value",
-                            children: "100% BURN",
+                            children: "LP LOCKED",
                           }),
                         ],
                       }),
@@ -501,7 +501,7 @@
                           }),
                           (0, r.jsx)("span", {
                             className: "tokenomics__card-value",
-                            children: "1,000,000,000",
+                            children: "10,000,000,000",
                           }),
                         ],
                       }),
@@ -726,7 +726,7 @@
                       }),
                     }),
                     (0, r.jsx)("a", {
-                      href: "https://t.me/ToshikoBase",
+                      href: "https://t.me/basetoshiko",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "footer__social-item",
@@ -739,7 +739,7 @@
                       }),
                     }),
                     (0, r.jsx)("a", {
-                      href: "https://dexscreener.com/base/0x00000000000000000000000000000000000000",
+                      href: "https://dexscreener.com/base/0xf8e8bb9009c5ea3f0c6f8cfa8782a9e8b9633184",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "footer__social-item",
@@ -752,7 +752,7 @@
                       }),
                     }),
                     (0, r.jsx)("a", {
-                      href: "https://www.dextools.io/app/en/base/pair-explorer/0x00000000000000000000000000000000000000",
+                      href: "https://www.dextools.io/app/en/base/pair-explorer/0xf8e8bb9009c5ea3f0c6f8cfa8782a9e8b9633184",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "footer__social-item",
